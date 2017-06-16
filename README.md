@@ -1,7 +1,7 @@
 # console
 rewrite the origin console.log
 
-
+![alert type = 1](./imgs/console.png)
 
 # use
 console.log()
@@ -14,7 +14,7 @@ log()
   # color: '', // default '#58baff'
   # fontSize: '', // default '12px'
   # height: , // default 50
-  # backgroundUrl: '', // default 'http://img.soogif.com/oTaaBm2f12ro2oHYt8MXO7ucTZ9LFDff.gif_s400x0'
+  # backgroundUrl: '', // default Array
 # }
 
 if hideLog is true, all the logs will be hide, it's for the production environment. You can try other params to know their use. Any suggestion or problem, pls feel free to contact me.E-mail:447462224@qq.com. Thank you!
